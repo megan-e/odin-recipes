@@ -1,2 +1,2 @@
 # odin-recipes
-Goal: Build a basic recipe website using HTMl.
+Goal: Build a basic recipe website using HTML.
